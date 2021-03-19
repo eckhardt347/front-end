@@ -17,7 +17,7 @@ var request      = require("request")
 
 
 global.acmws = {};
-  
+
 global.acmws['request-latency'] = 0;
 global.acmws['request-latency-catalogue'] = 500;
 global.acmws['response-error-probability'] = 0;
